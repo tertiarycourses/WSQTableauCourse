@@ -1,5 +1,5 @@
 # NICF – Data Visualisation with Tableau
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF – Data Visualisation with Tableau](https://www.tertiarycourses.com.sg/wsq-data-visualization-tableau-html.html) course. 
 
